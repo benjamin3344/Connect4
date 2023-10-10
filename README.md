@@ -19,6 +19,8 @@ If you are matching using local area network (LAN), modified the IP address to t
 
 # Instructions 
 Once installation finished, running commands on  two terminals respectively on the server and client:
+
+```
 ./bin/server
 ./bin/client
 ```
