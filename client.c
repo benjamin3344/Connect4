@@ -1,3 +1,9 @@
+/*************************************************************************
+> File Name: client.c
+> Author: benjamin3344
+> Mail: bshi.uoft@gmail.com
+> Created Time: Tue Oct 10 16:14 2023
+ ************************************************************************/
 
 #include<connect4.h>
 #include<my_socket.h>
